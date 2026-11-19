@@ -1472,4 +1472,17 @@ DESCRIPTION:Tampa Bay Lightning (14-5) at Boston Bruins (14-7)\nOdds: not p
  posted yet)
 LOCATION:TD Garden
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-401910365@sports.houissa.com
+DTSTAMP:20270118T200000Z
+DTSTART:20270118T200000Z
+DTEND:20270118T223000Z
+SEQUENCE:0
+SUMMARY:[NBA] Boston Celtics @ Washington Wizards (20/100)
+DESCRIPTION:Boston Celtics (11-4) at Washington Wizards (5-11)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 20/100\n- Team quality 20/35 (
+ avg strength 0.52)\n- Competitiveness 0/20 (est. from records\; odds not p
+ osted yet)
+LOCATION:Capital One Arena
+END:VEVENT
 END:VCALENDAR

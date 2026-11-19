@@ -54,6 +54,7 @@ RIVALRIES = [
     {"Charlotte FC", "Orlando City SC"},
 ]
 
+FAILED = []  # URLs that failed; schedule failures abort the run so a stale file is kept
 S = requests.Session()
 S.headers["User-Agent"] = "sports-calendar-sync/1.0"
 
@@ -65,6 +66,7 @@ def get(url, **params):
         return r.json()
     except (requests.RequestException, ValueError) as e:
         print(f"warn: {url} failed: {e}", file=sys.stderr)
+        FAILED.append(url)
         return {}
 
 
@@ -279,6 +281,10 @@ def main():
                 "summary": title, "description": desc, "location": venue,
             })
 
+    bad = [u for u in FAILED if "/schedule" in u]
+    if bad or not events:
+        # Never publish an empty/partial feed: Google would delete the missing events.
+        sys.exit(f"abort: schedule fetch failed {bad} / events={len(events)}; keeping existing calendar.ics")
     events.sort(key=lambda e: (e["start"], e["uid"]))
     Path(__file__).with_name("calendar.ics").write_bytes(
         build_calendar(events, name="Sports").encode("utf-8")
