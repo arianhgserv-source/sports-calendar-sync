@@ -1,0 +1,7 @@
+name = "sports-calendar"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+routes = [
+  { pattern = "sports.houissa.com", custom_domain = true }
+]
