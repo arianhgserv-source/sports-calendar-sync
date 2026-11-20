@@ -8,29 +8,15 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:nhl-401892747@sports.houissa.com
-DTSTAMP:20261120T000000Z
-DTSTART:20261120T000000Z
-DTEND:20261120T023000Z
-SEQUENCE:0
-SUMMARY:[NHL] Montreal Canadiens @ Carolina Hurricanes (49/100)
-DESCRIPTION:Montreal Canadiens (13-5-4) at Carolina Hurricanes (16-3-2)\nOd
- ds: CAR -345\, O/U 6.5\nBroadcast: CARNHL\, ESPN+\n\nInterest score 49/100
- \n- Team quality 35/35 (avg strength 0.75)\n- Competitiveness 14/20 (est. 
- from records\; odds not posted yet)
-LOCATION:Lenovo Center
-END:VEVENT
-BEGIN:VEVENT
 UID:nba-401909308@sports.houissa.com
 DTSTAMP:20261121T003000Z
 DTSTART:20261121T003000Z
 DTEND:20261121T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Toronto Raptors @ Detroit Pistons (21/100)
-DESCRIPTION:Toronto Raptors (5-10) at Detroit Pistons (10-4)\nOdds: not pos
- ted yet\nBroadcast: Prime Video\n\nInterest score 21/100\n- Team quality 2
- 0/35 (avg strength 0.52)\n- Competitiveness 1/20 (est. from records\; odds
-  not posted yet)
+SUMMARY:[NBA] Toronto Raptors @ Detroit Pistons (39/100)
+DESCRIPTION:Toronto Raptors (5-10) at Detroit Pistons (10-4)\nOdds: DET -6.
+ 5\, O/U 216.5\nBroadcast: Prime Video\n\nInterest score 39/100\n- Team qua
+ lity 20/35 (avg strength 0.52)\n- Competitiveness 19/35 (spread 6.5)
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -39,11 +25,11 @@ DTSTAMP:20261121T180000Z
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
 SEQUENCE:0
-SUMMARY:[NHL] Edmonton Oilers @ Carolina Hurricanes (55/100)
-DESCRIPTION:Edmonton Oilers (17-3-3) at Carolina Hurricanes (16-3-2)\nOdds:
-  not posted yet\nBroadcast: CARNHL\, NHL Net\n\nInterest score 55/100\n- T
- eam quality 35/35 (avg strength 0.81)\n- Competitiveness 20/20 (est. from 
- records\; odds not posted yet)
+SUMMARY:[NHL] Edmonton Oilers @ Carolina Hurricanes (54/100)
+DESCRIPTION:Edmonton Oilers (17-4-3) at Carolina Hurricanes (16-3-3)\nOdds:
+  CAR -180\, O/U 6.5\nBroadcast: CARNHL\, NHL Net\n\nInterest score 54/100\
+ n- Team quality 35/35 (avg strength 0.78)\n- Competitiveness 19/20 (est. f
+ rom records\; odds not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
 BEGIN:VEVENT
@@ -52,11 +38,11 @@ DTSTAMP:20261122T000000Z
 DTSTART:20261122T000000Z
 DTEND:20261122T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Washington Capitals @ Boston Bruins (39/100)
-DESCRIPTION:Washington Capitals (10-9-0) at Boston Bruins (14-7-1)\nOdds: n
- ot posted yet\nBroadcast: ESPN+\, MNMT\, NESN\n\nInterest score 39/100\n- 
- Team quality 26/35 (avg strength 0.59)\n- Competitiveness 13/20 (est. from
-  records\; odds not posted yet)
+SUMMARY:[NHL] Washington Capitals @ Boston Bruins (37/100)
+DESCRIPTION:Washington Capitals (10-10-0) at Boston Bruins (14-7-1)\nOdds: 
+ BOS -120\, O/U 6.5\nBroadcast: ESPN+\, MNMT\, NESN\n\nInterest score 37/10
+ 0\n- Team quality 24/35 (avg strength 0.58)\n- Competitiveness 12/20 (est.
+  from records\; odds not posted yet)
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -78,11 +64,11 @@ DTSTAMP:20261122T173000Z
 DTSTART:20261122T173000Z
 DTEND:20261122T200000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ New York Rangers (57/100 - Rivalry)
-DESCRIPTION:Carolina Hurricanes (16-3-2) at New York Rangers (13-8-1)\nOdds
- : not posted yet\nBroadcast: CARNHL\, MSG\, NHL Net\n\nInterest score 57/1
- 00 (Rivalry)\n- Team quality 35/35 (avg strength 0.71)\n- Competitiveness 
- 10/20 (est. from records\; odds not posted yet)\n- +12 rivalry
+SUMMARY:[NHL] Carolina Hurricanes @ New York Rangers (58/100 - Rivalry)
+DESCRIPTION:Carolina Hurricanes (16-3-3) at New York Rangers (13-8-1)\nOdds
+ : not posted yet\nBroadcast: CARNHL\, MSG\, NHL Net\n\nInterest score 58/1
+ 00 (Rivalry)\n- Team quality 35/35 (avg strength 0.70)\n- Competitiveness 
+ 11/20 (est. from records\; odds not posted yet)\n- +12 rivalry
 LOCATION:Madison Square Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -104,11 +90,11 @@ DTSTAMP:20261123T013000Z
 DTSTART:20261123T013000Z
 DTEND:20261123T040000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Golden State Warriors (39/100)
-DESCRIPTION:Boston Celtics (11-4) at Golden State Warriors (8-7)\nOdds: not
-  posted yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 29/35
-  (avg strength 0.63)\n- Competitiveness 10/20 (est. from records\; odds no
- t posted yet)
+SUMMARY:[NBA] Boston Celtics @ Golden State Warriors (36/100)
+DESCRIPTION:Boston Celtics (11-4) at Golden State Warriors (8-8)\nOdds: not
+  posted yet\nBroadcast: TBD\n\nInterest score 36/100\n- Team quality 28/35
+  (avg strength 0.62)\n- Competitiveness 8/20 (est. from records\; odds not
+  posted yet)
 LOCATION:Chase Center
 END:VEVENT
 BEGIN:VEVENT
@@ -117,9 +103,9 @@ DTSTAMP:20261123T200000Z
 DTSTART:20261123T200000Z
 DTEND:20261123T220000Z
 SEQUENCE:0
-SUMMARY:[EPL] Everton (A) @ Brentford (H) (40/100)
-DESCRIPTION:Everton (4-4-2) at Brentford (3-5-2)\nOdds: BRE +110\, O/U 2.5\
- nBroadcast: USA Net\n\nInterest score 40/100\n- Team quality 18/35 (avg st
+SUMMARY:[EPL] Everton (A) @ Brentford (H) (41/100)
+DESCRIPTION:Everton (4-4-2) at Brentford (3-5-2)\nOdds: BRE +115\, O/U 2.5\
+ nBroadcast: USA Net\n\nInterest score 41/100\n- Team quality 18/35 (avg st
  rength 0.50)\n- Competitiveness 23/35 (3-way win-prob gap 0.17)
 LOCATION:Gtech Community Stadium
 END:VEVENT
@@ -155,10 +141,10 @@ DTSTAMP:20261126T000000Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Winnipeg Jets @ Boston Bruins (39/100)
-DESCRIPTION:Winnipeg Jets (10-9-3) at Boston Bruins (14-7-1)\nOdds: not pos
- ted yet\nBroadcast: ESPN+\, NESN\n\nInterest score 39/100\n- Team quality 
- 25/35 (avg strength 0.59)\n- Competitiveness 13/20 (est. from records\; od
+SUMMARY:[NHL] Winnipeg Jets @ Boston Bruins (41/100)
+DESCRIPTION:Winnipeg Jets (11-9-3) at Boston Bruins (14-7-1)\nOdds: not pos
+ ted yet\nBroadcast: ESPN+\, NESN\n\nInterest score 41/100\n- Team quality 
+ 26/35 (avg strength 0.60)\n- Competitiveness 14/20 (est. from records\; od
  ds not posted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -168,10 +154,10 @@ DTSTAMP:20261126T000000Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Tampa Bay Lightning (50/100)
-DESCRIPTION:Carolina Hurricanes (16-3-2) at Tampa Bay Lightning (14-5-2)\nO
- dds: not posted yet\nBroadcast: TNT\, truTV\n\nInterest score 50/100\n- Te
- am quality 35/35 (avg strength 0.76)\n- Competitiveness 15/20 (est. from r
+SUMMARY:[NHL] Carolina Hurricanes @ Tampa Bay Lightning (52/100)
+DESCRIPTION:Carolina Hurricanes (16-3-3) at Tampa Bay Lightning (15-5-2)\nO
+ dds: not posted yet\nBroadcast: TNT\, truTV\n\nInterest score 52/100\n- Te
+ am quality 35/35 (avg strength 0.76)\n- Competitiveness 17/20 (est. from r
  ecords\; odds not posted yet)
 LOCATION:Benchmark International Arena
 END:VEVENT
@@ -181,9 +167,9 @@ DTSTAMP:20261127T180000Z
 DTSTART:20261127T180000Z
 DTEND:20261127T203000Z
 SEQUENCE:0
-SUMMARY:[NHL] Toronto Maple Leafs @ Boston Bruins (38/100 - Rivalry)
-DESCRIPTION:Toronto Maple Leafs (8-13-2) at Boston Bruins (14-7-1)\nOdds: n
- ot posted yet\nBroadcast: ESPN+\, NESN\n\nInterest score 38/100 (Rivalry)\
+SUMMARY:[NHL] Toronto Maple Leafs @ Boston Bruins (39/100 - Rivalry)
+DESCRIPTION:Toronto Maple Leafs (8-13-3) at Boston Bruins (14-7-1)\nOdds: n
+ ot posted yet\nBroadcast: ESPN+\, NESN\n\nInterest score 39/100 (Rivalry)\
  n- Team quality 20/35 (avg strength 0.53)\n- Competitiveness 7/20 (est. fr
  om records\; odds not posted yet)\n- +12 rivalry
 LOCATION:TD Garden
@@ -195,7 +181,7 @@ DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Milwaukee Bucks @ Detroit Pistons (8/100)
-DESCRIPTION:Milwaukee Bucks (1-14) at Detroit Pistons (10-4)\nOdds: not pos
+DESCRIPTION:Milwaukee Bucks (1-15) at Detroit Pistons (10-4)\nOdds: not pos
  ted yet\nBroadcast: Bucks App\, MyMi\n\nInterest score 8/100\n- Team quali
  ty 8/35 (avg strength 0.39)\n- Competitiveness 0/20 (est. from records\; o
  dds not posted yet)
@@ -221,9 +207,9 @@ DTSTART:20261129T000000Z
 DTEND:20261129T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Ottawa Senators @ Carolina Hurricanes (49/100)
-DESCRIPTION:Ottawa Senators (14-6-2) at Carolina Hurricanes (16-3-2)\nOdds:
+DESCRIPTION:Ottawa Senators (14-6-3) at Carolina Hurricanes (16-3-3)\nOdds:
   not posted yet\nBroadcast: CARNHL\, ESPN+\n\nInterest score 49/100\n- Tea
- m quality 35/35 (avg strength 0.75)\n- Competitiveness 14/20 (est. from re
+ m quality 35/35 (avg strength 0.73)\n- Competitiveness 14/20 (est. from re
  cords\; odds not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -246,10 +232,10 @@ DTSTAMP:20261129T210000Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ San Antonio Spurs (52/100)
-DESCRIPTION:Boston Celtics (11-4) at San Antonio Spurs (12-3)\nOdds: not po
- sted yet\nBroadcast: DAZN SAS\, NBA TV\n\nInterest score 52/100\n- Team qu
- ality 35/35 (avg strength 0.77)\n- Competitiveness 17/20 (est. from record
+SUMMARY:[NBA] Boston Celtics @ San Antonio Spurs (51/100)
+DESCRIPTION:Boston Celtics (11-4) at San Antonio Spurs (13-3)\nOdds: not po
+ sted yet\nBroadcast: DAZN SAS\, NBA TV\n\nInterest score 51/100\n- Team qu
+ ality 35/35 (avg strength 0.77)\n- Competitiveness 16/20 (est. from record
  s\; odds not posted yet)
 LOCATION:Frost Bank Center
 END:VEVENT
@@ -260,9 +246,9 @@ DTSTART:20261129T220000Z
 DTEND:20261130T003000Z
 SEQUENCE:0
 SUMMARY:[NHL] Vancouver Canucks @ Boston Bruins (13/100)
-DESCRIPTION:Vancouver Canucks (5-17-1) at Boston Bruins (14-7-1)\nOdds: not
+DESCRIPTION:Vancouver Canucks (5-18-1) at Boston Bruins (14-7-1)\nOdds: not
   posted yet\nBroadcast: ESPN+\, NESN\n\nInterest score 13/100\n- Team qual
- ity 13/35 (avg strength 0.45)\n- Competitiveness 0/20 (est. from records\;
+ ity 13/35 (avg strength 0.44)\n- Competitiveness 0/20 (est. from records\;
   odds not posted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -298,11 +284,11 @@ DTSTAMP:20261201T000000Z
 DTSTART:20261201T000000Z
 DTEND:20261201T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ New York Rangers (56/100 - Rivalry)
-DESCRIPTION:Carolina Hurricanes (16-3) at New York Rangers (13-8)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 56/100 (Rivalry)\n- Team qu
- ality 35/35 (avg strength 0.73)\n- Competitiveness 9/20 (est. from records
- \; odds not posted yet)\n- +12 rivalry
+SUMMARY:[NHL] Carolina Hurricanes @ New York Rangers (58/100 - Rivalry)
+DESCRIPTION:Carolina Hurricanes (16-3-3) at New York Rangers (13-8-1)\nOdds
+ : not posted yet\nBroadcast: CARNHL\, ESPN+\, MSG\n\nInterest score 58/100
+  (Rivalry)\n- Team quality 35/35 (avg strength 0.70)\n- Competitiveness 11
+ /20 (est. from records\; odds not posted yet)\n- +12 rivalry
 LOCATION:Madison Square Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -313,9 +299,9 @@ DTEND:20261201T033000Z
 SEQUENCE:0
 SUMMARY:[NBA] Boston Celtics @ Dallas Mavericks (39/100)
 DESCRIPTION:Boston Celtics (11-4) at Dallas Mavericks (8-7)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 29/35 (avg
-  strength 0.63)\n- Competitiveness 10/20 (est. from records\; odds not pos
- ted yet)
+ ed yet\nBroadcast: KFAA-TV\, MavsTV\n\nInterest score 39/100\n- Team quali
+ ty 29/35 (avg strength 0.63)\n- Competitiveness 10/20 (est. from records\;
+  odds not posted yet)
 LOCATION:American Airlines Center
 END:VEVENT
 BEGIN:VEVENT
@@ -324,10 +310,10 @@ DTSTAMP:20261202T010000Z
 DTSTART:20261202T010000Z
 DTEND:20261202T033000Z
 SEQUENCE:0
-SUMMARY:[NHL] Colorado Avalanche @ Boston Bruins (49/100)
-DESCRIPTION:Colorado Avalanche (12-7) at Boston Bruins (14-7)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 49/100\n- Team quality 31/35 (a
- vg strength 0.65)\n- Competitiveness 18/20 (est. from records\; odds not p
+SUMMARY:[NHL] Colorado Avalanche @ Boston Bruins (51/100)
+DESCRIPTION:Colorado Avalanche (13-7) at Boston Bruins (14-7)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 51/100\n- Team quality 31/35 (a
+ vg strength 0.66)\n- Competitiveness 19/20 (est. from records\; odds not p
  osted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -349,10 +335,10 @@ DTSTAMP:20261203T000000Z
 DTSTART:20261203T000000Z
 DTEND:20261203T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Memphis Grizzlies @ Detroit Pistons (54/100)
-DESCRIPTION:Memphis Grizzlies (11-4) at Detroit Pistons (10-4)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 54/100\n- Team quality 35/35 (
- avg strength 0.72)\n- Competitiveness 19/20 (est. from records\; odds not 
+SUMMARY:[NBA] Memphis Grizzlies @ Detroit Pistons (53/100)
+DESCRIPTION:Memphis Grizzlies (12-4) at Detroit Pistons (10-4)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 53/100\n- Team quality 35/35 (
+ avg strength 0.73)\n- Competitiveness 18/20 (est. from records\; odds not 
  posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -375,10 +361,10 @@ DTSTAMP:20261204T000000Z
 DTSTART:20261204T000000Z
 DTEND:20261204T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Columbus Blue Jackets @ Carolina Hurricanes (27/100)
-DESCRIPTION:Columbus Blue Jackets (7-12) at Carolina Hurricanes (16-3)\nOdd
- s: not posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality
-  27/35 (avg strength 0.61)\n- Competitiveness 0/20 (est. from records\; od
+SUMMARY:[NHL] Columbus Blue Jackets @ Carolina Hurricanes (28/100)
+DESCRIPTION:Columbus Blue Jackets (8-12) at Carolina Hurricanes (16-3)\nOdd
+ s: not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality
+  28/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; od
  ds not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -453,9 +439,9 @@ DTSTART:20261211T000000Z
 DTEND:20261211T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Boston Bruins @ Tampa Bay Lightning (51/100)
-DESCRIPTION:Boston Bruins (14-7) at Tampa Bay Lightning (14-5)\nOdds: not p
+DESCRIPTION:Boston Bruins (14-7) at Tampa Bay Lightning (15-5)\nOdds: not p
  osted yet\nBroadcast: TBD\n\nInterest score 51/100\n- Team quality 35/35 (
- avg strength 0.70)\n- Competitiveness 16/20 (est. from records\; odds not 
+ avg strength 0.71)\n- Competitiveness 16/20 (est. from records\; odds not 
  posted yet)
 LOCATION:Benchmark International Arena
 END:VEVENT
@@ -583,10 +569,10 @@ DTSTAMP:20261216T000000Z
 DTSTART:20261216T000000Z
 DTEND:20261216T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Columbus Blue Jackets (27/100)
-DESCRIPTION:Carolina Hurricanes (16-3) at Columbus Blue Jackets (7-12)\nOdd
- s: not posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality
-  27/35 (avg strength 0.61)\n- Competitiveness 0/20 (est. from records\; od
+SUMMARY:[NHL] Carolina Hurricanes @ Columbus Blue Jackets (28/100)
+DESCRIPTION:Carolina Hurricanes (16-3) at Columbus Blue Jackets (8-12)\nOdd
+ s: not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality
+  28/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; od
  ds not posted yet)
 LOCATION:Nationwide Arena
 END:VEVENT
@@ -622,10 +608,10 @@ DTSTAMP:20261218T000000Z
 DTSTART:20261218T000000Z
 DTEND:20261218T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] St. Louis Blues @ Boston Bruins (39/100)
-DESCRIPTION:St. Louis Blues (10-9) at Boston Bruins (14-7)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 26/35 (avg 
- strength 0.60)\n- Competitiveness 13/20 (est. from records\; odds not post
+SUMMARY:[NHL] St. Louis Blues @ Boston Bruins (41/100)
+DESCRIPTION:St. Louis Blues (11-9) at Boston Bruins (14-7)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 41/100\n- Team quality 27/35 (avg 
+ strength 0.61)\n- Competitiveness 14/20 (est. from records\; odds not post
  ed yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -674,11 +660,11 @@ DTSTAMP:20261219T020000Z
 DTSTART:20261219T020000Z
 DTEND:20261219T043000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Colorado Avalanche (44/100)
-DESCRIPTION:Carolina Hurricanes (16-3) at Colorado Avalanche (12-7)\nOdds: 
- not posted yet\nBroadcast: TBD\n\nInterest score 44/100\n- Team quality 35
- /35 (avg strength 0.74)\n- Competitiveness 9/20 (est. from records\; odds 
- not posted yet)
+SUMMARY:[NHL] Carolina Hurricanes @ Colorado Avalanche (45/100)
+DESCRIPTION:Carolina Hurricanes (16-3) at Colorado Avalanche (13-7)\nOdds: 
+ not posted yet\nBroadcast: TBD\n\nInterest score 45/100\n- Team quality 35
+ /35 (avg strength 0.75)\n- Competitiveness 10/20 (est. from records\; odds
+  not posted yet)
 LOCATION:Ball Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -713,10 +699,10 @@ DTSTAMP:20261220T180000Z
 DTSTART:20261220T180000Z
 DTEND:20261220T203000Z
 SEQUENCE:0
-SUMMARY:[NHL] Philadelphia Flyers @ Boston Bruins (26/100)
-DESCRIPTION:Philadelphia Flyers (7-11) at Boston Bruins (14-7)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 26/100\n- Team quality 20/35 (
- avg strength 0.53)\n- Competitiveness 6/20 (est. from records\; odds not p
+SUMMARY:[NHL] Philadelphia Flyers @ Boston Bruins (29/100)
+DESCRIPTION:Philadelphia Flyers (8-11) at Boston Bruins (14-7)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 29/100\n- Team quality 21/35 (
+ avg strength 0.54)\n- Competitiveness 8/20 (est. from records\; odds not p
  osted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -792,11 +778,11 @@ DTSTAMP:20261224T003000Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Portland Trail Blazers @ Boston Celtics (49/100)
-DESCRIPTION:Portland Trail Blazers (9-5) at Boston Celtics (11-4)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 49/100\n- Team quality 34/3
- 5 (avg strength 0.69)\n- Competitiveness 15/20 (est. from records\; odds n
- ot posted yet)
+SUMMARY:[NBA] Portland Trail Blazers @ Boston Celtics (52/100)
+DESCRIPTION:Portland Trail Blazers (10-5) at Boston Celtics (11-4)\nOdds: n
+ ot posted yet\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 35/
+ 35 (avg strength 0.70)\n- Competitiveness 17/20 (est. from records\; odds 
+ not posted yet)
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -843,10 +829,10 @@ DTSTAMP:20261227T000000Z
 DTSTART:20261227T000000Z
 DTEND:20261227T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Pittsburgh Penguins @ Carolina Hurricanes (28/100)
-DESCRIPTION:Pittsburgh Penguins (7-11) at Carolina Hurricanes (16-3)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 2
- 8/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; odds
+SUMMARY:[NHL] Pittsburgh Penguins @ Carolina Hurricanes (27/100)
+DESCRIPTION:Pittsburgh Penguins (7-12) at Carolina Hurricanes (16-3)\nOdds:
+  not posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality 2
+ 7/35 (avg strength 0.61)\n- Competitiveness 0/20 (est. from records\; odds
   not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -869,11 +855,11 @@ DTSTAMP:20261228T000000Z
 DTSTART:20261228T000000Z
 DTEND:20261228T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Portland Trail Blazers @ Detroit Pistons (50/100)
-DESCRIPTION:Portland Trail Blazers (9-5) at Detroit Pistons (10-4)\nOdds: n
- ot posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 33/
- 35 (avg strength 0.68)\n- Competitiveness 16/20 (est. from records\; odds 
- not posted yet)
+SUMMARY:[NBA] Portland Trail Blazers @ Detroit Pistons (52/100)
+DESCRIPTION:Portland Trail Blazers (10-5) at Detroit Pistons (10-4)\nOdds: 
+ not posted yet\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 34
+ /35 (avg strength 0.69)\n- Competitiveness 18/20 (est. from records\; odds
+  not posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -896,9 +882,9 @@ DTSTART:20261229T000000Z
 DTEND:20261229T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Tampa Bay Lightning @ Carolina Hurricanes (50/100)
-DESCRIPTION:Tampa Bay Lightning (14-5) at Carolina Hurricanes (16-3)\nOdds:
+DESCRIPTION:Tampa Bay Lightning (15-5) at Carolina Hurricanes (16-3)\nOdds:
   not posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 3
- 5/35 (avg strength 0.79)\n- Competitiveness 15/20 (est. from records\; odd
+ 5/35 (avg strength 0.80)\n- Competitiveness 15/20 (est. from records\; odd
  s not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -934,10 +920,10 @@ DTSTAMP:20261230T000000Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Pittsburgh Penguins (28/100)
-DESCRIPTION:Carolina Hurricanes (16-3) at Pittsburgh Penguins (7-11)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 2
- 8/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; odds
+SUMMARY:[NHL] Carolina Hurricanes @ Pittsburgh Penguins (27/100)
+DESCRIPTION:Carolina Hurricanes (16-3) at Pittsburgh Penguins (7-12)\nOdds:
+  not posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality 2
+ 7/35 (avg strength 0.61)\n- Competitiveness 0/20 (est. from records\; odds
   not posted yet)
 LOCATION:PPG Paints Arena
 END:VEVENT
@@ -960,10 +946,10 @@ DTSTAMP:20261231T003000Z
 DTSTART:20261231T003000Z
 DTEND:20261231T030000Z
 SEQUENCE:0
-SUMMARY:[NHL] Edmonton Oilers @ Boston Bruins (46/100)
-DESCRIPTION:Edmonton Oilers (17-3) at Boston Bruins (14-7)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 46/100\n- Team quality 35/35 (avg 
- strength 0.76)\n- Competitiveness 11/20 (est. from records\; odds not post
+SUMMARY:[NHL] Edmonton Oilers @ Boston Bruins (48/100)
+DESCRIPTION:Edmonton Oilers (17-4) at Boston Bruins (14-7)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 35/35 (avg 
+ strength 0.74)\n- Competitiveness 13/20 (est. from records\; odds not post
  ed yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1011,10 +997,10 @@ DTSTAMP:20270101T200000Z
 DTSTART:20270101T200000Z
 DTEND:20270101T223000Z
 SEQUENCE:0
-SUMMARY:[NHL] Boston Bruins @ Chicago Blackhawks (19/100)
-DESCRIPTION:Boston Bruins (14-7) at Chicago Blackhawks (6-13)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 19/100\n- Team quality 17/35 (a
- vg strength 0.49)\n- Competitiveness 2/20 (est. from records\; odds not po
+SUMMARY:[NHL] Boston Bruins @ Chicago Blackhawks (18/100)
+DESCRIPTION:Boston Bruins (14-7) at Chicago Blackhawks (6-14)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 18/100\n- Team quality 16/35 (a
+ vg strength 0.48)\n- Competitiveness 2/20 (est. from records\; odds not po
  sted yet)
 LOCATION:United Center
 END:VEVENT
@@ -1063,10 +1049,10 @@ DTSTAMP:20270103T000000Z
 DTSTART:20270103T000000Z
 DTEND:20270103T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Boston Bruins @ Columbus Blue Jackets (24/100)
-DESCRIPTION:Boston Bruins (14-7) at Columbus Blue Jackets (7-12)\nOdds: not
-  posted yet\nBroadcast: TBD\n\nInterest score 24/100\n- Team quality 19/35
-  (avg strength 0.52)\n- Competitiveness 5/20 (est. from records\; odds not
+SUMMARY:[NHL] Boston Bruins @ Columbus Blue Jackets (27/100)
+DESCRIPTION:Boston Bruins (14-7) at Columbus Blue Jackets (8-12)\nOdds: not
+  posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality 20/35
+  (avg strength 0.53)\n- Competitiveness 7/20 (est. from records\; odds not
   posted yet)
 LOCATION:Nationwide Arena
 END:VEVENT
@@ -1076,11 +1062,11 @@ DTSTAMP:20270103T030000Z
 DTSTART:20270103T030000Z
 DTEND:20270103T053000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Portland Trail Blazers (49/100)
-DESCRIPTION:Boston Celtics (11-4) at Portland Trail Blazers (9-5)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 49/100\n- Team quality 34/3
- 5 (avg strength 0.69)\n- Competitiveness 15/20 (est. from records\; odds n
- ot posted yet)
+SUMMARY:[NBA] Boston Celtics @ Portland Trail Blazers (52/100)
+DESCRIPTION:Boston Celtics (11-4) at Portland Trail Blazers (10-5)\nOdds: n
+ ot posted yet\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 35/
+ 35 (avg strength 0.70)\n- Competitiveness 17/20 (est. from records\; odds 
+ not posted yet)
 LOCATION:Moda Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,10 +1113,10 @@ DTSTAMP:20270106T000000Z
 DTSTART:20270106T000000Z
 DTEND:20270106T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] St. Louis Blues @ Carolina Hurricanes (38/100)
-DESCRIPTION:St. Louis Blues (10-9) at Carolina Hurricanes (16-3)\nOdds: not
-  posted yet\nBroadcast: TBD\n\nInterest score 38/100\n- Team quality 34/35
-  (avg strength 0.68)\n- Competitiveness 4/20 (est. from records\; odds not
+SUMMARY:[NHL] St. Louis Blues @ Carolina Hurricanes (40/100)
+DESCRIPTION:St. Louis Blues (11-9) at Carolina Hurricanes (16-3)\nOdds: not
+  posted yet\nBroadcast: TBD\n\nInterest score 40/100\n- Team quality 35/35
+  (avg strength 0.70)\n- Competitiveness 5/20 (est. from records\; odds not
   posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -1140,10 +1126,10 @@ DTSTAMP:20270106T003000Z
 DTSTART:20270106T003000Z
 DTEND:20270106T030000Z
 SEQUENCE:0
-SUMMARY:[NHL] Buffalo Sabres @ Boston Bruins (34/100)
-DESCRIPTION:Buffalo Sabres (8-9) at Boston Bruins (14-7)\nOdds: not posted 
- yet\nBroadcast: TBD\n\nInterest score 34/100\n- Team quality 24/35 (avg st
- rength 0.57)\n- Competitiveness 10/20 (est. from records\; odds not posted
+SUMMARY:[NHL] Buffalo Sabres @ Boston Bruins (36/100)
+DESCRIPTION:Buffalo Sabres (9-9) at Boston Bruins (14-7)\nOdds: not posted 
+ yet\nBroadcast: TBD\n\nInterest score 36/100\n- Team quality 25/35 (avg st
+ rength 0.58)\n- Competitiveness 12/20 (est. from records\; odds not posted
   yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1166,10 +1152,10 @@ DTSTAMP:20270107T003000Z
 DTSTART:20270107T003000Z
 DTEND:20270107T030000Z
 SEQUENCE:0
-SUMMARY:[NHL] Boston Bruins @ Montreal Canadiens (64/100 - Rivalry)
-DESCRIPTION:Boston Bruins (14-7) at Montreal Canadiens (13-5)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 64/100 (Rivalry)\n- Team qualit
- y 35/35 (avg strength 0.69)\n- Competitiveness 17/20 (est. from records\; 
+SUMMARY:[NHL] Boston Bruins @ Montreal Canadiens (63/100 - Rivalry)
+DESCRIPTION:Boston Bruins (14-7) at Montreal Canadiens (14-5)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 63/100 (Rivalry)\n- Team qualit
+ y 35/35 (avg strength 0.70)\n- Competitiveness 16/20 (est. from records\; 
  odds not posted yet)\n- +12 rivalry
 LOCATION:Bell Centre
 END:VEVENT
@@ -1179,10 +1165,10 @@ DTSTAMP:20270108T000000Z
 DTSTART:20270108T000000Z
 DTEND:20270108T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Pittsburgh Penguins @ Carolina Hurricanes (28/100)
-DESCRIPTION:Pittsburgh Penguins (7-11) at Carolina Hurricanes (16-3)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 2
- 8/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; odds
+SUMMARY:[NHL] Pittsburgh Penguins @ Carolina Hurricanes (27/100)
+DESCRIPTION:Pittsburgh Penguins (7-12) at Carolina Hurricanes (16-3)\nOdds:
+  not posted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality 2
+ 7/35 (avg strength 0.61)\n- Competitiveness 0/20 (est. from records\; odds
   not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -1192,11 +1178,11 @@ DTSTAMP:20270108T030000Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Golden State Warriors (39/100)
-DESCRIPTION:Detroit Pistons (10-4) at Golden State Warriors (8-7)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 28/3
- 5 (avg strength 0.62)\n- Competitiveness 11/20 (est. from records\; odds n
- ot posted yet)
+SUMMARY:[NBA] Detroit Pistons @ Golden State Warriors (36/100)
+DESCRIPTION:Detroit Pistons (10-4) at Golden State Warriors (8-8)\nOdds: no
+ t posted yet\nBroadcast: TBD\n\nInterest score 36/100\n- Team quality 27/3
+ 5 (avg strength 0.61)\n- Competitiveness 9/20 (est. from records\; odds no
+ t posted yet)
 LOCATION:Chase Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1231,10 +1217,10 @@ DTSTAMP:20270110T000000Z
 DTSTART:20270110T000000Z
 DTEND:20270110T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Buffalo Sabres (33/100)
-DESCRIPTION:Carolina Hurricanes (16-3) at Buffalo Sabres (8-9)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 33/100\n- Team quality 31/35 (
- avg strength 0.66)\n- Competitiveness 1/20 (est. from records\; odds not p
+SUMMARY:[NHL] Carolina Hurricanes @ Buffalo Sabres (35/100)
+DESCRIPTION:Carolina Hurricanes (16-3) at Buffalo Sabres (9-9)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 35/100\n- Team quality 32/35 (
+ avg strength 0.67)\n- Competitiveness 3/20 (est. from records\; odds not p
  osted yet)
 LOCATION:KeyBank Center
 END:VEVENT
@@ -1257,11 +1243,11 @@ DTSTAMP:20270110T033000Z
 DTSTART:20270110T033000Z
 DTEND:20270110T060000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ LA Clippers (19/100)
-DESCRIPTION:Boston Celtics (11-4) at LA Clippers (4-9)\nOdds: not posted ye
- t\nBroadcast: TBD\n\nInterest score 19/100\n- Team quality 19/35 (avg stre
- ngth 0.52)\n- Competitiveness 0/20 (est. from records\; odds not posted ye
- t)
+SUMMARY:[NBA] Boston Celtics @ LA Clippers (18/100)
+DESCRIPTION:Boston Celtics (11-4) at LA Clippers (4-10)\nOdds: not posted y
+ et\nBroadcast: TBD\n\nInterest score 18/100\n- Team quality 18/35 (avg str
+ ength 0.51)\n- Competitiveness 0/20 (est. from records\; odds not posted y
+ et)
 LOCATION:Intuit Dome
 END:VEVENT
 BEGIN:VEVENT
@@ -1323,10 +1309,10 @@ DTSTAMP:20270114T000000Z
 DTSTART:20270114T000000Z
 DTEND:20270114T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] New York Knicks @ Boston Celtics (55/100 - Rivalry)
-DESCRIPTION:New York Knicks (8-6) at Boston Celtics (11-4)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 55/100 (Rivalry)\n- Team quality 3
- 1/35 (avg strength 0.65)\n- Competitiveness 12/20 (est. from records\; odd
+SUMMARY:[NBA] New York Knicks @ Boston Celtics (57/100 - Rivalry)
+DESCRIPTION:New York Knicks (9-6) at Boston Celtics (11-4)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 57/100 (Rivalry)\n- Team quality 3
+ 2/35 (avg strength 0.67)\n- Competitiveness 13/20 (est. from records\; odd
  s not posted yet)\n- +12 rivalry
 LOCATION:TD Garden
 END:VEVENT
@@ -1350,9 +1336,9 @@ DTSTART:20270115T000000Z
 DTEND:20270115T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Dallas Stars @ Boston Bruins (52/100)
-DESCRIPTION:Dallas Stars (13-6) at Boston Bruins (14-7)\nOdds: not posted y
- et\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 33/35 (avg str
- ength 0.68)\n- Competitiveness 19/20 (est. from records\; odds not posted 
+DESCRIPTION:Dallas Stars (14-6) at Boston Bruins (14-7)\nOdds: not posted y
+ et\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 34/35 (avg str
+ ength 0.68)\n- Competitiveness 18/20 (est. from records\; odds not posted 
  yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1362,11 +1348,11 @@ DTSTAMP:20270115T000000Z
 DTSTART:20270115T000000Z
 DTEND:20270115T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Washington Capitals (50/100 - Rivalry)
-DESCRIPTION:Carolina Hurricanes (16-3) at Washington Capitals (10-9)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 50/100 (Rivalry)\n- Team
-  quality 34/35 (avg strength 0.68)\n- Competitiveness 4/20 (est. from reco
- rds\; odds not posted yet)\n- +12 rivalry
+SUMMARY:[NHL] Carolina Hurricanes @ Washington Capitals (47/100 - Rivalry)
+DESCRIPTION:Carolina Hurricanes (16-3) at Washington Capitals (10-10)\nOdds
+ : not posted yet\nBroadcast: TBD\n\nInterest score 47/100 (Rivalry)\n- Tea
+ m quality 32/35 (avg strength 0.67)\n- Competitiveness 3/20 (est. from rec
+ ords\; odds not posted yet)\n- +12 rivalry
 LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1375,10 +1361,10 @@ DTSTAMP:20270116T000000Z
 DTSTART:20270116T000000Z
 DTEND:20270116T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Philadelphia Flyers @ Carolina Hurricanes (28/100)
-DESCRIPTION:Philadelphia Flyers (7-11) at Carolina Hurricanes (16-3)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 2
- 8/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; odds
+SUMMARY:[NHL] Philadelphia Flyers @ Carolina Hurricanes (29/100)
+DESCRIPTION:Philadelphia Flyers (8-11) at Carolina Hurricanes (16-3)\nOdds:
+  not posted yet\nBroadcast: TBD\n\nInterest score 29/100\n- Team quality 2
+ 9/35 (avg strength 0.63)\n- Competitiveness 0/20 (est. from records\; odds
   not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -1466,9 +1452,9 @@ DTSTART:20270118T183000Z
 DTEND:20270118T210000Z
 SEQUENCE:0
 SUMMARY:[NHL] Tampa Bay Lightning @ Boston Bruins (51/100)
-DESCRIPTION:Tampa Bay Lightning (14-5) at Boston Bruins (14-7)\nOdds: not p
+DESCRIPTION:Tampa Bay Lightning (15-5) at Boston Bruins (14-7)\nOdds: not p
  osted yet\nBroadcast: TBD\n\nInterest score 51/100\n- Team quality 35/35 (
- avg strength 0.70)\n- Competitiveness 16/20 (est. from records\; odds not 
+ avg strength 0.71)\n- Competitiveness 16/20 (est. from records\; odds not 
  posted yet)
 LOCATION:TD Garden
 END:VEVENT
