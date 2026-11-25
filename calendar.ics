@@ -8,38 +8,14 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:nba-401909314@sports.houissa.com
-DTSTAMP:20261125T000000Z
-DTSTART:20261125T000000Z
-DTEND:20261125T023000Z
-SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Orlando Magic (51/100 - Toss-up)
-DESCRIPTION:Detroit Pistons (10-6) at Orlando Magic (7-9)\nOdds: DET -2.5\,
-  O/U 212.5\nBroadcast: TBD\n\nInterest score 51/100 (Toss-up)\n- Team qual
- ity 20/35 (avg strength 0.53)\n- Competitiveness 31/35 (spread 2.5)
-LOCATION:Kia Center
-END:VEVENT
-BEGIN:VEVENT
-UID:nba-401909315@sports.houissa.com
-DTSTAMP:20261125T010000Z
-DTSTART:20261125T010000Z
-DTEND:20261125T033000Z
-SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Washington Wizards (26/100)
-DESCRIPTION:Boston Celtics (11-6) at Washington Wizards (7-11)\nOdds: BOS -
- 10.5\, O/U 218.5\nBroadcast: NBC\n\nInterest score 26/100\n- Team quality 
- 19/35 (avg strength 0.52)\n- Competitiveness 7/35 (spread 10.5)
-LOCATION:Capital One Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-401892781@sports.houissa.com
 DTSTAMP:20261126T000000Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Winnipeg Jets @ Boston Bruins (42/100)
-DESCRIPTION:Winnipeg Jets (12-9-4) at Boston Bruins (15-7-1)\nOdds: BOS -16
- 2\, O/U 6.5\nBroadcast: ESPN+\, NESN\n\nInterest score 42/100\n- Team qual
+DESCRIPTION:Winnipeg Jets (12-9-4) at Boston Bruins (15-7-1)\nOdds: BOS -17
+ 0\, O/U 6.5\nBroadcast: ESPN+\, NESN\n\nInterest score 42/100\n- Team qual
  ity 28/35 (avg strength 0.62)\n- Competitiveness 14/20 (est. from records\
  ; odds not posted yet)
 LOCATION:TD Garden
@@ -52,7 +28,7 @@ DTEND:20261126T023000Z
 SEQUENCE:0
 SUMMARY:[NHL] Carolina Hurricanes @ Tampa Bay Lightning (49/100)
 DESCRIPTION:Carolina Hurricanes (18-3-3) at Tampa Bay Lightning (15-6-2)\nO
- dds: CAR -130\, O/U 6.5\nBroadcast: TNT\, truTV\n\nInterest score 49/100\n
+ dds: CAR -115\, O/U 6.5\nBroadcast: TNT\, truTV\n\nInterest score 49/100\n
  - Team quality 35/35 (avg strength 0.75)\n- Competitiveness 14/20 (est. fr
  om records\; odds not posted yet)
 LOCATION:Benchmark International Arena
@@ -76,10 +52,10 @@ DTSTAMP:20261128T003000Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Milwaukee Bucks @ Detroit Pistons (6/100)
-DESCRIPTION:Milwaukee Bucks (2-16) at Detroit Pistons (10-6)\nOdds: not pos
- ted yet\nBroadcast: Bucks App\, MyMi\n\nInterest score 6/100\n- Team quali
- ty 6/35 (avg strength 0.37)\n- Competitiveness 0/20 (est. from records\; o
+SUMMARY:[NBA] Milwaukee Bucks @ Detroit Pistons (7/100)
+DESCRIPTION:Milwaukee Bucks (2-16) at Detroit Pistons (11-6)\nOdds: not pos
+ ted yet\nBroadcast: Bucks App\, MyMi\n\nInterest score 7/100\n- Team quali
+ ty 7/35 (avg strength 0.38)\n- Competitiveness 0/20 (est. from records\; o
  dds not posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -90,9 +66,9 @@ DTSTART:20261128T010000Z
 DTEND:20261128T033000Z
 SEQUENCE:0
 SUMMARY:[NBA] Atlanta Hawks @ Boston Celtics (50/100)
-DESCRIPTION:Atlanta Hawks (11-6) at Boston Celtics (11-6)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 30/35 (avg s
- trength 0.65)\n- Competitiveness 20/20 (est. from records\; odds not poste
+DESCRIPTION:Atlanta Hawks (11-6) at Boston Celtics (12-6)\nOdds: not posted
+  yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 31/35 (avg s
+ trength 0.66)\n- Competitiveness 19/20 (est. from records\; odds not poste
  d yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -115,11 +91,11 @@ DTSTAMP:20261129T120000Z
 DTSTART:20261129T120000Z
 DTEND:20261129T140000Z
 SEQUENCE:0
-SUMMARY:[EPL] Liverpool (A) @ Everton (H) (50/100 - Rivalry)
-DESCRIPTION:Liverpool (6-3-2) at Everton (4-4-3)\nOdds: LIV -115\, O/U 2.5\
- nBroadcast: TBD\n\nInterest score 50/100 (Rivalry)\n- Team quality 23/35 (
- avg strength 0.56)\n- Competitiveness 15/35 (3-way win-prob gap 0.28)\n- +
- 12 rivalry
+SUMMARY:[EPL] Liverpool (A) @ Everton (H) (49/100 - Rivalry)
+DESCRIPTION:Liverpool (6-3-2) at Everton (4-4-3)\nOdds: LIV -120\, O/U 2.5\
+ nBroadcast: USA Net\, Universo\n\nInterest score 49/100 (Rivalry)\n- Team 
+ quality 23/35 (avg strength 0.56)\n- Competitiveness 14/35 (3-way win-prob
+  gap 0.30)\n- +12 rivalry
 LOCATION:Hill Dickinson Stadium
 END:VEVENT
 BEGIN:VEVENT
@@ -128,10 +104,10 @@ DTSTAMP:20261129T210000Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ San Antonio Spurs (46/100)
-DESCRIPTION:Boston Celtics (11-6) at San Antonio Spurs (15-3)\nOdds: not po
- sted yet\nBroadcast: DAZN SAS\, NBA TV\n\nInterest score 46/100\n- Team qu
- ality 35/35 (avg strength 0.74)\n- Competitiveness 11/20 (est. from record
+SUMMARY:[NBA] Boston Celtics @ San Antonio Spurs (47/100)
+DESCRIPTION:Boston Celtics (12-6) at San Antonio Spurs (15-3)\nOdds: not po
+ sted yet\nBroadcast: DAZN SAS\, NBA TV\n\nInterest score 47/100\n- Team qu
+ ality 35/35 (avg strength 0.75)\n- Competitiveness 12/20 (est. from record
  s\; odds not posted yet)
 LOCATION:Frost Bank Center
 END:VEVENT
@@ -154,10 +130,10 @@ DTSTAMP:20261129T230000Z
 DTSTART:20261129T230000Z
 DTEND:20261130T013000Z
 SEQUENCE:0
-SUMMARY:[NBA] Orlando Magic @ Detroit Pistons (31/100)
-DESCRIPTION:Orlando Magic (7-9) at Detroit Pistons (10-6)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 31/100\n- Team quality 20/35 (avg s
- trength 0.53)\n- Competitiveness 11/20 (est. from records\; odds not poste
+SUMMARY:[NBA] Orlando Magic @ Detroit Pistons (28/100)
+DESCRIPTION:Orlando Magic (7-10) at Detroit Pistons (11-6)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 20/35 (avg 
+ strength 0.53)\n- Competitiveness 8/20 (est. from records\; odds not poste
  d yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -168,9 +144,9 @@ DTSTART:20261201T000000Z
 DTEND:20261201T023000Z
 SEQUENCE:0
 SUMMARY:[NBA] Denver Nuggets @ Detroit Pistons (48/100)
-DESCRIPTION:Denver Nuggets (10-5) at Detroit Pistons (10-6)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 30/35 (avg
-  strength 0.65)\n- Competitiveness 18/20 (est. from records\; odds not pos
+DESCRIPTION:Denver Nuggets (10-6) at Detroit Pistons (11-6)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 29/35 (avg
+  strength 0.64)\n- Competitiveness 19/20 (est. from records\; odds not pos
  ted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -193,10 +169,10 @@ DTSTAMP:20261201T010000Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Dallas Mavericks (45/100)
-DESCRIPTION:Boston Celtics (11-6) at Dallas Mavericks (10-7)\nOdds: not pos
- ted yet\nBroadcast: KFAA-TV\, MavsTV\n\nInterest score 45/100\n- Team qual
- ity 28/35 (avg strength 0.62)\n- Competitiveness 17/20 (est. from records\
+SUMMARY:[NBA] Boston Celtics @ Dallas Mavericks (47/100)
+DESCRIPTION:Boston Celtics (12-6) at Dallas Mavericks (11-7)\nOdds: not pos
+ ted yet\nBroadcast: KFAA-TV\, MavsTV\n\nInterest score 47/100\n- Team qual
+ ity 30/35 (avg strength 0.64)\n- Competitiveness 17/20 (est. from records\
  ; odds not posted yet)
 LOCATION:American Airlines Center
 END:VEVENT
@@ -222,7 +198,7 @@ SEQUENCE:0
 SUMMARY:[EPL] Everton (A) @ Aston Villa (H) (33/100)
 DESCRIPTION:Everton (4-4-3) at Aston Villa (3-5-3)\nOdds: AVL +100\, O/U 2.
  5\nBroadcast: TBD\n\nInterest score 33/100\n- Team quality 14/35 (avg stre
- ngth 0.45)\n- Competitiveness 19/35 (3-way win-prob gap 0.22)
+ ngth 0.45)\n- Competitiveness 20/35 (3-way win-prob gap 0.22)
 LOCATION:Villa Park
 END:VEVENT
 BEGIN:VEVENT
@@ -231,10 +207,10 @@ DTSTAMP:20261203T000000Z
 DTSTART:20261203T000000Z
 DTEND:20261203T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Memphis Grizzlies @ Detroit Pistons (48/100)
-DESCRIPTION:Memphis Grizzlies (13-5) at Detroit Pistons (10-6)\nOdds: not p
- osted yet\nBroadcast: DAZN MEM\n\nInterest score 48/100\n- Team quality 33
- /35 (avg strength 0.67)\n- Competitiveness 15/20 (est. from records\; odds
+SUMMARY:[NBA] Memphis Grizzlies @ Detroit Pistons (50/100)
+DESCRIPTION:Memphis Grizzlies (13-5) at Detroit Pistons (11-6)\nOdds: not p
+ osted yet\nBroadcast: DAZN MEM\n\nInterest score 50/100\n- Team quality 34
+ /35 (avg strength 0.68)\n- Competitiveness 16/20 (est. from records\; odds
   not posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -244,10 +220,10 @@ DTSTAMP:20261203T003000Z
 DTSTART:20261203T003000Z
 DTEND:20261203T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Charlotte Hornets @ Boston Celtics (13/100)
-DESCRIPTION:Charlotte Hornets (4-12) at Boston Celtics (11-6)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 13/100\n- Team quality 13/35 (a
- vg strength 0.45)\n- Competitiveness 0/20 (est. from records\; odds not po
+SUMMARY:[NBA] Charlotte Hornets @ Boston Celtics (14/100)
+DESCRIPTION:Charlotte Hornets (4-12) at Boston Celtics (12-6)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 14/100\n- Team quality 14/35 (a
+ vg strength 0.46)\n- Competitiveness 0/20 (est. from records\; odds not po
  sted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -270,11 +246,11 @@ DTSTAMP:20261205T180000Z
 DTSTART:20261205T180000Z
 DTEND:20261205T203000Z
 SEQUENCE:0
-SUMMARY:[NHL] Detroit Red Wings @ Boston Bruins (27/100)
-DESCRIPTION:Detroit Red Wings (8-12) at Boston Bruins (15-7)\nOdds: not pos
- ted yet\nBroadcast: TBD\n\nInterest score 27/100\n- Team quality 21/35 (av
- g strength 0.54)\n- Competitiveness 6/20 (est. from records\; odds not pos
- ted yet)
+SUMMARY:[NHL] Detroit Red Wings @ Boston Bruins (28/100)
+DESCRIPTION:Detroit Red Wings (8-12-3) at Boston Bruins (15-7-1)\nOdds: not
+  posted yet\nBroadcast: DSN\, ESPN+\, NESN\n\nInterest score 28/100\n- Tea
+ m quality 21/35 (avg strength 0.54)\n- Competitiveness 7/20 (est. from rec
+ ords\; odds not posted yet)
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -283,11 +259,11 @@ DTSTAMP:20261206T000000Z
 DTSTART:20261206T000000Z
 DTEND:20261206T023000Z
 SEQUENCE:0
-SUMMARY:[NHL] Toronto Maple Leafs @ Carolina Hurricanes (28/100)
-DESCRIPTION:Toronto Maple Leafs (9-14) at Carolina Hurricanes (18-3)\nOdds:
-  not posted yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 2
- 8/35 (avg strength 0.62)\n- Competitiveness 0/20 (est. from records\; odds
-  not posted yet)
+SUMMARY:[NHL] Toronto Maple Leafs @ Carolina Hurricanes (27/100)
+DESCRIPTION:Toronto Maple Leafs (9-14-3) at Carolina Hurricanes (18-3-3)\nO
+ dds: not posted yet\nBroadcast: CARNHL\, ESPN+\, WRAL-TV\n\nInterest score
+  27/100\n- Team quality 27/35 (avg strength 0.61)\n- Competitiveness 0/20 
+ (est. from records\; odds not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
 BEGIN:VEVENT
@@ -400,10 +376,10 @@ DTSTAMP:20261213T200000Z
 DTSTART:20261213T200000Z
 DTEND:20261213T223000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Brooklyn Nets (10/100)
-DESCRIPTION:Boston Celtics (11-6) at Brooklyn Nets (3-13)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 10/100\n- Team quality 10/35 (avg s
- trength 0.42)\n- Competitiveness 0/20 (est. from records\; odds not posted
+SUMMARY:[NBA] Boston Celtics @ Brooklyn Nets (11/100)
+DESCRIPTION:Boston Celtics (12-6) at Brooklyn Nets (3-13)\nOdds: not posted
+  yet\nBroadcast: TBD\n\nInterest score 11/100\n- Team quality 11/35 (avg s
+ trength 0.43)\n- Competitiveness 0/20 (est. from records\; odds not posted
   yet)
 LOCATION:Barclays Center
 END:VEVENT
@@ -414,9 +390,9 @@ DTSTART:20261213T220000Z
 DTEND:20261214T003000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Indiana Pacers (21/100)
-DESCRIPTION:Detroit Pistons (10-6) at Indiana Pacers (6-12)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 16/35 (avg
-  strength 0.48)\n- Competitiveness 5/20 (est. from records\; odds not post
+DESCRIPTION:Detroit Pistons (11-6) at Indiana Pacers (6-12)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 17/35 (avg
+  strength 0.49)\n- Competitiveness 4/20 (est. from records\; odds not post
  ed yet)
 LOCATION:Gainbridge Fieldhouse
 END:VEVENT
@@ -426,11 +402,11 @@ DTSTAMP:20261215T000000Z
 DTSTART:20261215T000000Z
 DTEND:20261215T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Brooklyn Nets @ Detroit Pistons (9/100)
-DESCRIPTION:Brooklyn Nets (3-13) at Detroit Pistons (10-6)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 9/100\n- Team quality 9/35 (avg st
- rength 0.41)\n- Competitiveness 0/20 (est. from records\; odds not posted 
- yet)
+SUMMARY:[NBA] Brooklyn Nets @ Detroit Pistons (10/100)
+DESCRIPTION:Brooklyn Nets (3-13) at Detroit Pistons (11-6)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 10/100\n- Team quality 10/35 (avg 
+ strength 0.42)\n- Competitiveness 0/20 (est. from records\; odds not poste
+ d yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -439,10 +415,10 @@ DTSTAMP:20261215T003000Z
 DTSTART:20261215T003000Z
 DTEND:20261215T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Washington Wizards @ Boston Celtics (26/100)
-DESCRIPTION:Washington Wizards (7-11) at Boston Celtics (11-6)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 26/100\n- Team quality 19/35 (
- avg strength 0.52)\n- Competitiveness 7/20 (est. from records\; odds not p
+SUMMARY:[NBA] Washington Wizards @ Boston Celtics (24/100)
+DESCRIPTION:Washington Wizards (7-12) at Boston Celtics (12-6)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 24/100\n- Team quality 19/35 (
+ avg strength 0.52)\n- Competitiveness 5/20 (est. from records\; odds not p
  osted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -478,10 +454,10 @@ DTSTAMP:20261217T000000Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Washington Wizards @ Boston Celtics (26/100)
-DESCRIPTION:Washington Wizards (7-11) at Boston Celtics (11-6)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 26/100\n- Team quality 19/35 (
- avg strength 0.52)\n- Competitiveness 7/20 (est. from records\; odds not p
+SUMMARY:[NBA] Washington Wizards @ Boston Celtics (24/100)
+DESCRIPTION:Washington Wizards (7-12) at Boston Celtics (12-6)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 24/100\n- Team quality 19/35 (
+ avg strength 0.52)\n- Competitiveness 5/20 (est. from records\; odds not p
  osted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -491,10 +467,10 @@ DTSTAMP:20261217T000000Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Phoenix Suns @ Detroit Pistons (43/100)
-DESCRIPTION:Phoenix Suns (9-7) at Detroit Pistons (10-6)\nOdds: not posted 
- yet\nBroadcast: TBD\n\nInterest score 43/100\n- Team quality 26/35 (avg st
- rength 0.59)\n- Competitiveness 17/20 (est. from records\; odds not posted
+SUMMARY:[NBA] Phoenix Suns @ Detroit Pistons (42/100)
+DESCRIPTION:Phoenix Suns (9-7) at Detroit Pistons (11-6)\nOdds: not posted 
+ yet\nBroadcast: TBD\n\nInterest score 42/100\n- Team quality 27/35 (avg st
+ rength 0.60)\n- Competitiveness 16/20 (est. from records\; odds not posted
   yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -530,10 +506,11 @@ DTSTAMP:20261219T003000Z
 DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Utah Jazz @ Boston Celtics (9/100)
-DESCRIPTION:Utah Jazz (3-16) at Boston Celtics (11-6)\nOdds: not posted yet
- \nBroadcast: TBD\n\nInterest score 9/100\n- Team quality 9/35 (avg strengt
- h 0.40)\n- Competitiveness 0/20 (est. from records\; odds not posted yet)
+SUMMARY:[NBA] Utah Jazz @ Boston Celtics (10/100)
+DESCRIPTION:Utah Jazz (3-16) at Boston Celtics (12-6)\nOdds: not posted yet
+ \nBroadcast: TBD\n\nInterest score 10/100\n- Team quality 10/35 (avg stren
+ gth 0.41)\n- Competitiveness 0/20 (est. from records\; odds not posted yet
+ )
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -543,9 +520,9 @@ DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Cleveland Cavaliers @ Detroit Pistons (49/100 - Rivalry)
-DESCRIPTION:Cleveland Cavaliers (9-9) at Detroit Pistons (10-6)\nOdds: not 
+DESCRIPTION:Cleveland Cavaliers (9-9) at Detroit Pistons (11-6)\nOdds: not 
  posted yet\nBroadcast: TBD\n\nInterest score 49/100 (Rivalry)\n- Team qual
- ity 23/35 (avg strength 0.56)\n- Competitiveness 14/20 (est. from records\
+ ity 24/35 (avg strength 0.57)\n- Competitiveness 13/20 (est. from records\
  ; odds not posted yet)\n- +12 rivalry
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -607,11 +584,11 @@ DTSTAMP:20261221T010000Z
 DTSTART:20261221T010000Z
 DTEND:20261221T033000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Boston Celtics (63/100 - Tracked vs Tracked
+SUMMARY:[NBA] Detroit Pistons @ Boston Celtics (65/100 - Tracked vs Tracked
  )
-DESCRIPTION:Detroit Pistons (10-6) at Boston Celtics (11-6)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 63/100 (Tracked vs Tracked)\n- Te
- am quality 29/35 (avg strength 0.64)\n- Competitiveness 19/20 (est. from r
+DESCRIPTION:Detroit Pistons (11-6) at Boston Celtics (12-6)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 65/100 (Tracked vs Tracked)\n- Te
+ am quality 31/35 (avg strength 0.66)\n- Competitiveness 19/20 (est. from r
  ecords\; odds not posted yet)\n- +15 tracked vs tracked
 LOCATION:TD Garden
 END:VEVENT
@@ -621,10 +598,10 @@ DTSTAMP:20261222T030000Z
 DTSTART:20261222T030000Z
 DTEND:20261222T053000Z
 SEQUENCE:0
-SUMMARY:[NHL] Carolina Hurricanes @ Vegas Golden Knights (47/100)
-DESCRIPTION:Carolina Hurricanes (18-3) at Vegas Golden Knights (14-6)\nOdds
- : not posted yet\nBroadcast: TBD\n\nInterest score 47/100\n- Team quality 
- 35/35 (avg strength 0.78)\n- Competitiveness 12/20 (est. from records\; od
+SUMMARY:[NHL] Carolina Hurricanes @ Vegas Golden Knights (48/100)
+DESCRIPTION:Carolina Hurricanes (18-3) at Vegas Golden Knights (15-6)\nOdds
+ : not posted yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 
+ 35/35 (avg strength 0.79)\n- Competitiveness 13/20 (est. from records\; od
  ds not posted yet)
 LOCATION:T-Mobile Arena
 END:VEVENT
@@ -648,9 +625,9 @@ DTSTART:20261223T010000Z
 DTEND:20261223T033000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Oklahoma City Thunder (42/100)
-DESCRIPTION:Detroit Pistons (10-6) at Oklahoma City Thunder (10-8)\nOdds: n
- ot posted yet\nBroadcast: TBD\n\nInterest score 42/100\n- Team quality 25/
- 35 (avg strength 0.59)\n- Competitiveness 17/20 (est. from records\; odds 
+DESCRIPTION:Detroit Pistons (11-6) at Oklahoma City Thunder (10-8)\nOdds: n
+ ot posted yet\nBroadcast: TBD\n\nInterest score 42/100\n- Team quality 26/
+ 35 (avg strength 0.60)\n- Competitiveness 15/20 (est. from records\; odds 
  not posted yet)
 LOCATION:Paycom Center
 END:VEVENT
@@ -660,10 +637,10 @@ DTSTAMP:20261224T000000Z
 DTSTART:20261224T000000Z
 DTEND:20261224T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Atlanta Hawks (48/100)
-DESCRIPTION:Detroit Pistons (10-6) at Atlanta Hawks (11-6)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 29/35 (avg 
- strength 0.64)\n- Competitiveness 19/20 (est. from records\; odds not post
+SUMMARY:[NBA] Detroit Pistons @ Atlanta Hawks (50/100)
+DESCRIPTION:Detroit Pistons (11-6) at Atlanta Hawks (11-6)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 30/35 (avg 
+ strength 0.65)\n- Competitiveness 20/20 (est. from records\; odds not post
  ed yet)
 LOCATION:State Farm Arena
 END:VEVENT
@@ -674,9 +651,9 @@ DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Portland Trail Blazers @ Boston Celtics (50/100)
-DESCRIPTION:Portland Trail Blazers (11-6) at Boston Celtics (11-6)\nOdds: n
- ot posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 30/
- 35 (avg strength 0.65)\n- Competitiveness 20/20 (est. from records\; odds 
+DESCRIPTION:Portland Trail Blazers (11-6) at Boston Celtics (12-6)\nOdds: n
+ ot posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 31/
+ 35 (avg strength 0.66)\n- Competitiveness 19/20 (est. from records\; odds 
  not posted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -687,9 +664,9 @@ DTSTART:20261225T193000Z
 DTEND:20261225T220000Z
 SEQUENCE:0
 SUMMARY:[NBA] Miami Heat @ Boston Celtics (60/100 - Rivalry)
-DESCRIPTION:Miami Heat (10-6) at Boston Celtics (11-6)\nOdds: not posted ye
- t\nBroadcast: TBD\n\nInterest score 60/100 (Rivalry)\n- Team quality 29/35
-  (avg strength 0.64)\n- Competitiveness 19/20 (est. from records\; odds no
+DESCRIPTION:Miami Heat (10-6) at Boston Celtics (12-6)\nOdds: not posted ye
+ t\nBroadcast: TBD\n\nInterest score 60/100 (Rivalry)\n- Team quality 30/35
+  (avg strength 0.65)\n- Competitiveness 18/20 (est. from records\; odds no
  t posted yet)\n- +12 rivalry
 LOCATION:TD Garden
 END:VEVENT
@@ -738,9 +715,9 @@ DTSTART:20261227T010000Z
 DTEND:20261227T033000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Chicago Bulls (29/100 - Rivalry)
-DESCRIPTION:Detroit Pistons (10-6) at Chicago Bulls (5-12)\nOdds: not poste
+DESCRIPTION:Detroit Pistons (11-6) at Chicago Bulls (5-12)\nOdds: not poste
  d yet\nBroadcast: TBD\n\nInterest score 29/100 (Rivalry)\n- Team quality 1
- 4/35 (avg strength 0.46)\n- Competitiveness 3/20 (est. from records\; odds
+ 5/35 (avg strength 0.47)\n- Competitiveness 2/20 (est. from records\; odds
   not posted yet)\n- +12 rivalry
 LOCATION:United Center
 END:VEVENT
@@ -750,10 +727,10 @@ DTSTAMP:20261228T000000Z
 DTSTART:20261228T000000Z
 DTEND:20261228T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Portland Trail Blazers @ Detroit Pistons (48/100)
-DESCRIPTION:Portland Trail Blazers (11-6) at Detroit Pistons (10-6)\nOdds: 
- not posted yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 29
- /35 (avg strength 0.64)\n- Competitiveness 19/20 (est. from records\; odds
+SUMMARY:[NBA] Portland Trail Blazers @ Detroit Pistons (50/100)
+DESCRIPTION:Portland Trail Blazers (11-6) at Detroit Pistons (11-6)\nOdds: 
+ not posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 30
+ /35 (avg strength 0.65)\n- Competitiveness 20/20 (est. from records\; odds
   not posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -789,10 +766,10 @@ DTSTAMP:20261229T010000Z
 DTSTART:20261229T010000Z
 DTEND:20261229T033000Z
 SEQUENCE:0
-SUMMARY:[NBA] Cleveland Cavaliers @ Boston Celtics (37/100)
-DESCRIPTION:Cleveland Cavaliers (9-9) at Boston Celtics (11-6)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 37/100\n- Team quality 24/35 (
- avg strength 0.57)\n- Competitiveness 13/20 (est. from records\; odds not 
+SUMMARY:[NBA] Cleveland Cavaliers @ Boston Celtics (36/100)
+DESCRIPTION:Cleveland Cavaliers (9-9) at Boston Celtics (12-6)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 36/100\n- Team quality 25/35 (
+ avg strength 0.58)\n- Competitiveness 12/20 (est. from records\; odds not 
  posted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -828,10 +805,10 @@ DTSTAMP:20261231T000000Z
 DTSTART:20261231T000000Z
 DTEND:20261231T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] New Orleans Pelicans @ Detroit Pistons (15/100)
-DESCRIPTION:New Orleans Pelicans (5-14) at Detroit Pistons (10-6)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 15/100\n- Team quality 13/3
- 5 (avg strength 0.44)\n- Competitiveness 2/20 (est. from records\; odds no
+SUMMARY:[NBA] New Orleans Pelicans @ Detroit Pistons (14/100)
+DESCRIPTION:New Orleans Pelicans (5-14) at Detroit Pistons (11-6)\nOdds: no
+ t posted yet\nBroadcast: TBD\n\nInterest score 14/100\n- Team quality 14/3
+ 5 (avg strength 0.46)\n- Competitiveness 1/20 (est. from records\; odds no
  t posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -841,10 +818,10 @@ DTSTAMP:20261231T003000Z
 DTSTART:20261231T003000Z
 DTEND:20261231T030000Z
 SEQUENCE:0
-SUMMARY:[NHL] Edmonton Oilers @ Boston Bruins (50/100)
-DESCRIPTION:Edmonton Oilers (17-5) at Boston Bruins (15-7)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 35/35 (avg 
- strength 0.73)\n- Competitiveness 15/20 (est. from records\; odds not post
+SUMMARY:[NHL] Edmonton Oilers @ Boston Bruins (52/100)
+DESCRIPTION:Edmonton Oilers (17-6) at Boston Bruins (15-7)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 35/35 (avg 
+ strength 0.71)\n- Competitiveness 17/20 (est. from records\; odds not post
  ed yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -855,9 +832,9 @@ DTSTART:20261231T010000Z
 DTEND:20261231T033000Z
 SEQUENCE:0
 SUMMARY:[NBA] Boston Celtics @ Chicago Bulls (17/100)
-DESCRIPTION:Boston Celtics (11-6) at Chicago Bulls (5-12)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 17/100\n- Team quality 15/35 (avg s
- trength 0.47)\n- Competitiveness 2/20 (est. from records\; odds not posted
+DESCRIPTION:Boston Celtics (12-6) at Chicago Bulls (5-12)\nOdds: not posted
+  yet\nBroadcast: TBD\n\nInterest score 17/100\n- Team quality 16/35 (avg s
+ trength 0.48)\n- Competitiveness 1/20 (est. from records\; odds not posted
   yet)
 LOCATION:United Center
 END:VEVENT
@@ -905,10 +882,10 @@ DTSTAMP:20270102T003000Z
 DTSTART:20270102T003000Z
 DTEND:20270102T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Orlando Magic @ Detroit Pistons (31/100)
-DESCRIPTION:Orlando Magic (7-9) at Detroit Pistons (10-6)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 31/100\n- Team quality 20/35 (avg s
- trength 0.53)\n- Competitiveness 11/20 (est. from records\; odds not poste
+SUMMARY:[NBA] Orlando Magic @ Detroit Pistons (28/100)
+DESCRIPTION:Orlando Magic (7-10) at Detroit Pistons (11-6)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 28/100\n- Team quality 20/35 (avg 
+ strength 0.53)\n- Competitiveness 8/20 (est. from records\; odds not poste
  d yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -918,10 +895,11 @@ DTSTAMP:20270102T023000Z
 DTSTART:20270102T023000Z
 DTEND:20270102T050000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Utah Jazz (9/100)
-DESCRIPTION:Boston Celtics (11-6) at Utah Jazz (3-16)\nOdds: not posted yet
- \nBroadcast: TBD\n\nInterest score 9/100\n- Team quality 9/35 (avg strengt
- h 0.40)\n- Competitiveness 0/20 (est. from records\; odds not posted yet)
+SUMMARY:[NBA] Boston Celtics @ Utah Jazz (10/100)
+DESCRIPTION:Boston Celtics (12-6) at Utah Jazz (3-16)\nOdds: not posted yet
+ \nBroadcast: TBD\n\nInterest score 10/100\n- Team quality 10/35 (avg stren
+ gth 0.41)\n- Competitiveness 0/20 (est. from records\; odds not posted yet
+ )
 LOCATION:Delta Center
 END:VEVENT
 BEGIN:VEVENT
@@ -957,9 +935,9 @@ DTSTART:20270103T030000Z
 DTEND:20270103T053000Z
 SEQUENCE:0
 SUMMARY:[NBA] Boston Celtics @ Portland Trail Blazers (50/100)
-DESCRIPTION:Boston Celtics (11-6) at Portland Trail Blazers (11-6)\nOdds: n
- ot posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 30/
- 35 (avg strength 0.65)\n- Competitiveness 20/20 (est. from records\; odds 
+DESCRIPTION:Boston Celtics (12-6) at Portland Trail Blazers (11-6)\nOdds: n
+ ot posted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 31/
+ 35 (avg strength 0.66)\n- Competitiveness 19/20 (est. from records\; odds 
  not posted yet)
 LOCATION:Moda Center
 END:VEVENT
@@ -970,9 +948,9 @@ DTSTART:20270103T220000Z
 DTEND:20270104T003000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Denver Nuggets (48/100)
-DESCRIPTION:Detroit Pistons (10-6) at Denver Nuggets (10-5)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 30/35 (avg
-  strength 0.65)\n- Competitiveness 18/20 (est. from records\; odds not pos
+DESCRIPTION:Detroit Pistons (11-6) at Denver Nuggets (10-6)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 29/35 (avg
+  strength 0.64)\n- Competitiveness 19/20 (est. from records\; odds not pos
  ted yet)
 LOCATION:Ball Arena
 END:VEVENT
@@ -983,9 +961,9 @@ DTSTART:20270105T020000Z
 DTEND:20270105T043000Z
 SEQUENCE:0
 SUMMARY:[NBA] Boston Celtics @ Phoenix Suns (42/100)
-DESCRIPTION:Boston Celtics (11-6) at Phoenix Suns (9-7)\nOdds: not posted y
- et\nBroadcast: TBD\n\nInterest score 42/100\n- Team quality 27/35 (avg str
- ength 0.60)\n- Competitiveness 16/20 (est. from records\; odds not posted 
+DESCRIPTION:Boston Celtics (12-6) at Phoenix Suns (9-7)\nOdds: not posted y
+ et\nBroadcast: TBD\n\nInterest score 42/100\n- Team quality 28/35 (avg str
+ ength 0.61)\n- Competitiveness 15/20 (est. from records\; odds not posted 
  yet)
 LOCATION:Mortgage Matchup Center
 END:VEVENT
@@ -1033,10 +1011,10 @@ DTSTAMP:20270106T030000Z
 DTSTART:20270106T030000Z
 DTEND:20270106T053000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Sacramento Kings (6/100)
-DESCRIPTION:Detroit Pistons (10-6) at Sacramento Kings (2-15)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 6/100\n- Team quality 6/35 (avg
-  strength 0.37)\n- Competitiveness 0/20 (est. from records\; odds not post
+SUMMARY:[NBA] Detroit Pistons @ Sacramento Kings (7/100)
+DESCRIPTION:Detroit Pistons (11-6) at Sacramento Kings (2-15)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 7/100\n- Team quality 7/35 (avg
+  strength 0.38)\n- Competitiveness 0/20 (est. from records\; odds not post
  ed yet)
 LOCATION:Golden 1 Center
 END:VEVENT
@@ -1073,9 +1051,9 @@ DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Golden State Warriors (39/100)
-DESCRIPTION:Detroit Pistons (10-6) at Golden State Warriors (9-8)\nOdds: no
- t posted yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 24/3
- 5 (avg strength 0.58)\n- Competitiveness 15/20 (est. from records\; odds n
+DESCRIPTION:Detroit Pistons (11-6) at Golden State Warriors (9-8)\nOdds: no
+ t posted yet\nBroadcast: TBD\n\nInterest score 39/100\n- Team quality 25/3
+ 5 (avg strength 0.59)\n- Competitiveness 14/20 (est. from records\; odds n
  ot posted yet)
 LOCATION:Chase Center
 END:VEVENT
@@ -1085,10 +1063,10 @@ DTSTAMP:20270108T030000Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Los Angeles Lakers (58/100 - Rivalry)
-DESCRIPTION:Boston Celtics (11-6) at Los Angeles Lakers (15-3)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 58/100 (Rivalry)\n- Team quali
- ty 35/35 (avg strength 0.74)\n- Competitiveness 11/20 (est. from records\;
+SUMMARY:[NBA] Boston Celtics @ Los Angeles Lakers (59/100 - Rivalry)
+DESCRIPTION:Boston Celtics (12-6) at Los Angeles Lakers (15-3)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 59/100 (Rivalry)\n- Team quali
+ ty 35/35 (avg strength 0.75)\n- Competitiveness 12/20 (est. from records\;
   odds not posted yet)\n- +12 rivalry
 LOCATION:crypto.com Arena
 END:VEVENT
@@ -1098,10 +1076,10 @@ DTSTAMP:20270109T030000Z
 DTSTART:20270109T030000Z
 DTEND:20270109T053000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Los Angeles Lakers (45/100)
-DESCRIPTION:Detroit Pistons (10-6) at Los Angeles Lakers (15-3)\nOdds: not 
- posted yet\nBroadcast: TBD\n\nInterest score 45/100\n- Team quality 35/35 
- (avg strength 0.73)\n- Competitiveness 10/20 (est. from records\; odds not
+SUMMARY:[NBA] Detroit Pistons @ Los Angeles Lakers (46/100)
+DESCRIPTION:Detroit Pistons (11-6) at Los Angeles Lakers (15-3)\nOdds: not 
+ posted yet\nBroadcast: TBD\n\nInterest score 46/100\n- Team quality 35/35 
+ (avg strength 0.74)\n- Competitiveness 11/20 (est. from records\; odds not
   posted yet)
 LOCATION:crypto.com Arena
 END:VEVENT
@@ -1137,10 +1115,10 @@ DTSTAMP:20270110T033000Z
 DTSTART:20270110T033000Z
 DTEND:20270110T060000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ LA Clippers (13/100)
-DESCRIPTION:Boston Celtics (11-6) at LA Clippers (4-12)\nOdds: not posted y
- et\nBroadcast: TBD\n\nInterest score 13/100\n- Team quality 13/35 (avg str
- ength 0.45)\n- Competitiveness 0/20 (est. from records\; odds not posted y
+SUMMARY:[NBA] Boston Celtics @ LA Clippers (14/100)
+DESCRIPTION:Boston Celtics (12-6) at LA Clippers (4-12)\nOdds: not posted y
+ et\nBroadcast: TBD\n\nInterest score 14/100\n- Team quality 14/35 (avg str
+ ength 0.46)\n- Competitiveness 0/20 (est. from records\; odds not posted y
  et)
 LOCATION:Intuit Dome
 END:VEVENT
@@ -1150,10 +1128,10 @@ DTSTAMP:20270110T230000Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
 SEQUENCE:0
-SUMMARY:[NBA] Utah Jazz @ Detroit Pistons (8/100)
-DESCRIPTION:Utah Jazz (3-16) at Detroit Pistons (10-6)\nOdds: not posted ye
- t\nBroadcast: TBD\n\nInterest score 8/100\n- Team quality 8/35 (avg streng
- th 0.39)\n- Competitiveness 0/20 (est. from records\; odds not posted yet)
+SUMMARY:[NBA] Utah Jazz @ Detroit Pistons (9/100)
+DESCRIPTION:Utah Jazz (3-16) at Detroit Pistons (11-6)\nOdds: not posted ye
+ t\nBroadcast: TBD\n\nInterest score 9/100\n- Team quality 9/35 (avg streng
+ th 0.40)\n- Competitiveness 0/20 (est. from records\; odds not posted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,10 +1140,10 @@ DTSTAMP:20270112T003000Z
 DTSTART:20270112T003000Z
 DTEND:20270112T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Houston Rockets @ Boston Celtics (50/100)
-DESCRIPTION:Houston Rockets (13-5) at Boston Celtics (11-6)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 34/35 (avg
-  strength 0.68)\n- Competitiveness 16/20 (est. from records\; odds not pos
+SUMMARY:[NBA] Houston Rockets @ Boston Celtics (52/100)
+DESCRIPTION:Houston Rockets (13-5) at Boston Celtics (12-6)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 52/100\n- Team quality 35/35 (avg
+  strength 0.69)\n- Competitiveness 17/20 (est. from records\; odds not pos
  ted yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1190,9 +1168,9 @@ DTSTART:20270113T003000Z
 DTEND:20270113T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Toronto Raptors (23/100)
-DESCRIPTION:Detroit Pistons (10-6) at Toronto Raptors (6-11)\nOdds: not pos
- ted yet\nBroadcast: TBD\n\nInterest score 23/100\n- Team quality 17/35 (av
- g strength 0.49)\n- Competitiveness 6/20 (est. from records\; odds not pos
+DESCRIPTION:Detroit Pistons (11-6) at Toronto Raptors (6-11)\nOdds: not pos
+ ted yet\nBroadcast: TBD\n\nInterest score 23/100\n- Team quality 18/35 (av
+ g strength 0.50)\n- Competitiveness 5/20 (est. from records\; odds not pos
  ted yet)
 LOCATION:Scotiabank Arena
 END:VEVENT
@@ -1203,9 +1181,9 @@ DTSTART:20270114T000000Z
 DTEND:20270114T023000Z
 SEQUENCE:0
 SUMMARY:[NBA] New York Knicks @ Boston Celtics (62/100 - Rivalry)
-DESCRIPTION:New York Knicks (11-6) at Boston Celtics (11-6)\nOdds: not post
+DESCRIPTION:New York Knicks (11-6) at Boston Celtics (12-6)\nOdds: not post
  ed yet\nBroadcast: TBD\n\nInterest score 62/100 (Rivalry)\n- Team quality 
- 30/35 (avg strength 0.65)\n- Competitiveness 20/20 (est. from records\; od
+ 31/35 (avg strength 0.66)\n- Competitiveness 19/20 (est. from records\; od
  ds not posted yet)\n- +12 rivalry
 LOCATION:TD Garden
 END:VEVENT
@@ -1215,10 +1193,10 @@ DTSTAMP:20270115T000000Z
 DTSTART:20270115T000000Z
 DTEND:20270115T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Dallas Mavericks @ Detroit Pistons (45/100)
-DESCRIPTION:Dallas Mavericks (10-7) at Detroit Pistons (10-6)\nOdds: not po
- sted yet\nBroadcast: TBD\n\nInterest score 45/100\n- Team quality 27/35 (a
- vg strength 0.61)\n- Competitiveness 18/20 (est. from records\; odds not p
+SUMMARY:[NBA] Dallas Mavericks @ Detroit Pistons (47/100)
+DESCRIPTION:Dallas Mavericks (11-7) at Detroit Pistons (11-6)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 47/100\n- Team quality 29/35 (a
+ vg strength 0.63)\n- Competitiveness 18/20 (est. from records\; odds not p
  osted yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -1293,10 +1271,10 @@ DTSTAMP:20270117T000000Z
 DTSTART:20270117T000000Z
 DTEND:20270117T023000Z
 SEQUENCE:0
-SUMMARY:[NBA] Brooklyn Nets @ Boston Celtics (10/100)
-DESCRIPTION:Brooklyn Nets (3-13) at Boston Celtics (11-6)\nOdds: not posted
-  yet\nBroadcast: TBD\n\nInterest score 10/100\n- Team quality 10/35 (avg s
- trength 0.42)\n- Competitiveness 0/20 (est. from records\; odds not posted
+SUMMARY:[NBA] Brooklyn Nets @ Boston Celtics (11/100)
+DESCRIPTION:Brooklyn Nets (3-13) at Boston Celtics (12-6)\nOdds: not posted
+  yet\nBroadcast: TBD\n\nInterest score 11/100\n- Team quality 11/35 (avg s
+ trength 0.43)\n- Competitiveness 0/20 (est. from records\; odds not posted
   yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1306,10 +1284,10 @@ DTSTAMP:20270117T013000Z
 DTSTART:20270117T013000Z
 DTEND:20270117T040000Z
 SEQUENCE:0
-SUMMARY:[NBA] Detroit Pistons @ Houston Rockets (48/100)
-DESCRIPTION:Detroit Pistons (10-6) at Houston Rockets (13-5)\nOdds: not pos
- ted yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 33/35 (av
- g strength 0.67)\n- Competitiveness 15/20 (est. from records\; odds not po
+SUMMARY:[NBA] Detroit Pistons @ Houston Rockets (50/100)
+DESCRIPTION:Detroit Pistons (11-6) at Houston Rockets (13-5)\nOdds: not pos
+ ted yet\nBroadcast: TBD\n\nInterest score 50/100\n- Team quality 34/35 (av
+ g strength 0.68)\n- Competitiveness 16/20 (est. from records\; odds not po
  sted yet)
 LOCATION:Toyota Center (Houston)
 END:VEVENT
@@ -1319,10 +1297,10 @@ DTSTAMP:20270117T230000Z
 DTSTART:20270117T230000Z
 DTEND:20270118T013000Z
 SEQUENCE:0
-SUMMARY:[NHL] Vegas Golden Knights @ Carolina Hurricanes (47/100)
-DESCRIPTION:Vegas Golden Knights (14-6) at Carolina Hurricanes (18-3)\nOdds
- : not posted yet\nBroadcast: TBD\n\nInterest score 47/100\n- Team quality 
- 35/35 (avg strength 0.78)\n- Competitiveness 12/20 (est. from records\; od
+SUMMARY:[NHL] Vegas Golden Knights @ Carolina Hurricanes (48/100)
+DESCRIPTION:Vegas Golden Knights (15-6) at Carolina Hurricanes (18-3)\nOdds
+ : not posted yet\nBroadcast: TBD\n\nInterest score 48/100\n- Team quality 
+ 35/35 (avg strength 0.79)\n- Competitiveness 13/20 (est. from records\; od
  ds not posted yet)
 LOCATION:Lenovo Center
 END:VEVENT
@@ -1333,9 +1311,9 @@ DTSTART:20270118T170000Z
 DTEND:20270118T193000Z
 SEQUENCE:0
 SUMMARY:[NBA] Detroit Pistons @ Cleveland Cavaliers (49/100 - Rivalry)
-DESCRIPTION:Detroit Pistons (10-6) at Cleveland Cavaliers (9-9)\nOdds: not 
+DESCRIPTION:Detroit Pistons (11-6) at Cleveland Cavaliers (9-9)\nOdds: not 
  posted yet\nBroadcast: TBD\n\nInterest score 49/100 (Rivalry)\n- Team qual
- ity 23/35 (avg strength 0.56)\n- Competitiveness 14/20 (est. from records\
+ ity 24/35 (avg strength 0.57)\n- Competitiveness 13/20 (est. from records\
  ; odds not posted yet)\n- +12 rivalry
 LOCATION:Rocket Arena
 END:VEVENT
@@ -1358,10 +1336,10 @@ DTSTAMP:20270118T200000Z
 DTSTART:20270118T200000Z
 DTEND:20270118T223000Z
 SEQUENCE:0
-SUMMARY:[NBA] Boston Celtics @ Washington Wizards (26/100)
-DESCRIPTION:Boston Celtics (11-6) at Washington Wizards (7-11)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 26/100\n- Team quality 19/35 (
- avg strength 0.52)\n- Competitiveness 7/20 (est. from records\; odds not p
+SUMMARY:[NBA] Boston Celtics @ Washington Wizards (24/100)
+DESCRIPTION:Boston Celtics (12-6) at Washington Wizards (7-12)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 24/100\n- Team quality 19/35 (
+ avg strength 0.52)\n- Competitiveness 5/20 (est. from records\; odds not p
  osted yet)
 LOCATION:Capital One Arena
 END:VEVENT
@@ -1372,9 +1350,9 @@ DTSTART:20270121T003000Z
 DTEND:20270121T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Indiana Pacers @ Boston Celtics (21/100)
-DESCRIPTION:Indiana Pacers (6-12) at Boston Celtics (11-6)\nOdds: not poste
- d yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 17/35 (avg 
- strength 0.49)\n- Competitiveness 4/20 (est. from records\; odds not poste
+DESCRIPTION:Indiana Pacers (6-12) at Boston Celtics (12-6)\nOdds: not poste
+ d yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 18/35 (avg 
+ strength 0.50)\n- Competitiveness 3/20 (est. from records\; odds not poste
  d yet)
 LOCATION:TD Garden
 END:VEVENT
@@ -1410,10 +1388,10 @@ DTSTAMP:20270122T003000Z
 DTSTART:20270122T003000Z
 DTEND:20270122T030000Z
 SEQUENCE:0
-SUMMARY:[NBA] Philadelphia 76ers @ Boston Celtics (60/100 - Rivalry)
-DESCRIPTION:Philadelphia 76ers (14-4) at Boston Celtics (11-6)\nOdds: not p
- osted yet\nBroadcast: TBD\n\nInterest score 60/100 (Rivalry)\n- Team quali
- ty 35/35 (avg strength 0.71)\n- Competitiveness 13/20 (est. from records\;
+SUMMARY:[NBA] Philadelphia 76ers @ Boston Celtics (61/100 - Rivalry)
+DESCRIPTION:Philadelphia 76ers (14-4) at Boston Celtics (12-6)\nOdds: not p
+ osted yet\nBroadcast: TBD\n\nInterest score 61/100 (Rivalry)\n- Team quali
+ ty 35/35 (avg strength 0.72)\n- Competitiveness 14/20 (est. from records\;
   odds not posted yet)\n- +12 rivalry
 LOCATION:TD Garden
 END:VEVENT
@@ -1424,9 +1402,9 @@ DTSTART:20270123T003000Z
 DTEND:20270123T030000Z
 SEQUENCE:0
 SUMMARY:[NBA] Indiana Pacers @ Detroit Pistons (21/100)
-DESCRIPTION:Indiana Pacers (6-12) at Detroit Pistons (10-6)\nOdds: not post
- ed yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 16/35 (avg
-  strength 0.48)\n- Competitiveness 5/20 (est. from records\; odds not post
+DESCRIPTION:Indiana Pacers (6-12) at Detroit Pistons (11-6)\nOdds: not post
+ ed yet\nBroadcast: TBD\n\nInterest score 21/100\n- Team quality 17/35 (avg
+  strength 0.49)\n- Competitiveness 4/20 (est. from records\; odds not post
  ed yet)
 LOCATION:Little Caesars Arena
 END:VEVENT
@@ -1437,10 +1415,61 @@ DTSTART:20270123T030000Z
 DTEND:20270123T053000Z
 SEQUENCE:0
 SUMMARY:[NHL] Boston Bruins @ Vegas Golden Knights (53/100)
-DESCRIPTION:Boston Bruins (15-7) at Vegas Golden Knights (14-6)\nOdds: not 
- posted yet\nBroadcast: TBD\n\nInterest score 53/100\n- Team quality 34/35 
- (avg strength 0.69)\n- Competitiveness 19/20 (est. from records\; odds not
+DESCRIPTION:Boston Bruins (15-7) at Vegas Golden Knights (15-6)\nOdds: not 
+ posted yet\nBroadcast: TBD\n\nInterest score 53/100\n- Team quality 35/35 
+ (avg strength 0.70)\n- Competitiveness 18/20 (est. from records\; odds not
   posted yet)
 LOCATION:T-Mobile Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-401910402@sports.houissa.com
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SEQUENCE:0
+SUMMARY:[NBA] Charlotte Hornets @ Boston Celtics (14/100)
+DESCRIPTION:Charlotte Hornets (4-12) at Boston Celtics (12-6)\nOdds: not po
+ sted yet\nBroadcast: TBD\n\nInterest score 14/100\n- Team quality 14/35 (a
+ vg strength 0.46)\n- Competitiveness 0/20 (est. from records\; odds not po
+ sted yet)
+LOCATION:TD Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-401893209@sports.houissa.com
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SEQUENCE:0
+SUMMARY:[NHL] Anaheim Ducks @ Carolina Hurricanes (31/100)
+DESCRIPTION:Anaheim Ducks (11-13) at Carolina Hurricanes (18-3)\nOdds: not 
+ posted yet\nBroadcast: TBD\n\nInterest score 31/100\n- Team quality 31/35 
+ (avg strength 0.66)\n- Competitiveness 0/20 (est. from records\; odds not 
+ posted yet)
+LOCATION:Lenovo Center
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-401893214@sports.houissa.com
+DTSTAMP:20270124T020000Z
+DTSTART:20270124T020000Z
+DTEND:20270124T043000Z
+SEQUENCE:0
+SUMMARY:[NHL] Boston Bruins @ Utah Mammoth (41/100)
+DESCRIPTION:Boston Bruins (15-7) at Utah Mammoth (12-10)\nOdds: not posted 
+ yet\nBroadcast: TBD\n\nInterest score 41/100\n- Team quality 27/35 (avg st
+ rength 0.61)\n- Competitiveness 13/20 (est. from records\; odds not posted
+  yet)
+LOCATION:Delta Center
+END:VEVENT
+BEGIN:VEVENT
+UID:eng.1-401879162@sports.houissa.com
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SEQUENCE:0
+SUMMARY:[EPL] Brentford (A) @ Everton (H) (36/100)
+DESCRIPTION:Brentford (4-5-2) at Everton (4-4-3)\nOdds: not posted yet\nBro
+ adcast: TBD\n\nInterest score 36/100\n- Team quality 18/35 (avg strength 0
+ .50)\n- Competitiveness 18/20 (est. from records\; odds not posted yet)
+LOCATION:Hill Dickinson Stadium
 END:VEVENT
 END:VCALENDAR
